@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>541770928956-3ns17n5nusgd1rocafrp3ehf41jgpu9m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.541770928956-3ns17n5nusgd1rocafrp3ehf41jgpu9m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>541770928956-dipk0q0sqrc3p2ovl71gdn29evm72cpk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDEc8ITgZvoXHDN4Wui1gcQRTt58wUs_hg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>541770928956</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.maumshoong</string>
+	<key>PROJECT_ID</key>
+	<string>familinker-95f28</string>
+	<key>STORAGE_BUCKET</key>
+	<string>familinker-95f28.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:541770928956:ios:e844b7e7c560ca5d384439</string>
+	<key>DATABASE_URL</key>
+	<string>https://familinker-95f28-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

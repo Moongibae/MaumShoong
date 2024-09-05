@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "541770928956",
+    "firebase_url": "https://familinker-95f28-default-rtdb.firebaseio.com",
+    "project_id": "familinker-95f28",
+    "storage_bucket": "familinker-95f28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541770928956:android:90ceef5c712bd6db384439",
+        "android_client_info": {
+          "package_name": "com.heartmailers4.maumshoong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541770928956-dipk0q0sqrc3p2ovl71gdn29evm72cpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heartmailers4.maumshoong",
+            "certificate_hash": "3fdbd6ead6985ab1f362be6e288c833989c72c35"
+          }
+        },
+        {
+          "client_id": "541770928956-ghts93oq5kofhhfu925p0adp6lo0l5ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJnhcMtOGwWnz8hZQOj1bcn3O6IKJqiyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541770928956-ghts93oq5kofhhfu925p0adp6lo0l5ot.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "541770928956-3ns17n5nusgd1rocafrp3ehf41jgpu9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.maumshoong"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

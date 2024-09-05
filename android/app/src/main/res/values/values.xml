@@ -1,0 +1,8 @@
+<resources>
+    <string name="firebase_database_url" translatable="false">https://familinker-95f28-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">541770928956</string>
+    <string name="google_api_key" translatable="false">AIzaSyDJnhcMtOGwWnz8hZQOj1bcn3O6IKJqiyo</string>
+    <string name="google_app_id" translatable="false">1:541770928956:android:90ceef5c712bd6db384439</string>
+    <string name="project_id" translatable="false">familinker-95f28</string>
+    <string name="storage_bucket" translatable="false">familinker-95f28.appspot.com</string>
+</resources>

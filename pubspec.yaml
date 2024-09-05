@@ -1,0 +1,90 @@
+name: maumshoong
+description: "MAUMSHOONG"
+
+version: 1.1.4+20
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.10+1
+  cupertino_icons: ^1.0.6
+  url_launcher: ^6.2.5
+  flutter_lints: ^3.0.0
+  flutter_native_splash: ^2.4.0
+  dotted_line: ^3.2.2
+  cloud_firestore: ^5.1.0
+  firebase_core: ^3.2.0
+  firebase_auth: ^5.1.2
+  shared_preferences: ^2.2.2
+  intl: ^0.19.0
+  percent_indicator: ^4.2.3
+  kakao_flutter_sdk_user: ^1.9.5
+  kakao_flutter_sdk: ^1.9.5
+  sign_in_with_apple: ^6.1.1
+  google_sign_in: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - "assets/images/SmileHeart.svg"
+    - "assets/images/LOGO.svg"
+    - "assets/images/GreenHeart.svg"
+    - "assets/images/BlueHeart.svg"
+    - "assets/images/OrangeHeart.svg"
+    - "assets/images/PinkHeart.svg"
+    - "assets/images/PurpleHeart.svg"
+    - "assets/images/Back.svg"
+    - "assets/images/Move.svg"
+    - "assets/images/Stroke.svg"
+    - "assets/images/Stroke_Notification.svg"
+    - "assets/images/Remind.svg"
+    - "assets/images/Remind_Notification.svg"
+    - "assets/images/heart.svg"
+    - "assets/images/heart1.svg"
+    - "assets/images/heart2.svg"
+    - "assets/images/heart3.svg"
+    - "assets/images/heart4.svg"
+    - "assets/images/heart5.svg"
+    - "assets/images/Home.svg"
+    - "assets/images/Home.fill.svg"
+    - "assets/images/Profile.svg"
+    - "assets/images/Profile.fill.svg"
+    - "assets/images/BigHeart.svg"
+    - "assets/images/Tape.svg"
+    - "assets/images/QuotesLeft.svg"
+    - "assets/images/QuotesRight.svg"
+    - "assets/images/Union.svg"
+    - "assets/images/Union.fill.svg"
+    - "assets/images/Copy.svg"
+    - "assets/images/Create.svg"
+    - "assets/images/Create.fill.svg"
+    - "assets/images/SmileHeart.svg"
+    - "assets/images/Menu.svg"
+    - "assets/images/EmptyHeart.svg"
+    - 'assets/images/LoadingImage.png'
+    - 'assets/images/LoadingLogo.svg'
+    - 'assets/images/Check.svg'
+    - 'assets/images/SignUpCompleted.svg'
+    - 'assets/images/MSGSendCompleted.svg'
+    - 'assets/images/AddWishListCompleted.svg'
+    - 'assets/images/FamilyRegistrationCompleted.svg'
+    - 'assets/images/WritingPad1.svg'
+    - 'assets/images/WritingPad2.svg'
+    - 'assets/images/WritingPad3.svg'
+    - 'assets/images/WritingPad4.svg'
+    - 'assets/images/WritingPad5.svg'
+    - 'assets/images/Reference.svg'
+    - 'assets/images/Suggestion.svg'
+    - 'assets/images/CheckWritingPad.svg'
+    - 'assets/images/FamilyLinkRecommendation.svg'
+    - 'assets/images/arrive.svg'
+    - 'assets/images/kakao_talk.svg'
+    - 'assets/images/Apple.svg'
+    - 'assets/images/Google.svg'
